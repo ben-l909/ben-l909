@@ -1,6 +1,6 @@
 ### Heyo! 👋
-I'm a backend developer with a passion for breaking things. 
-Discord: ffsx#1010
+I'm a backend developer with a passion for breaking things.  
+📥 Discord: ffsx#1010
 
 <!--
 **ben-l909/ben-l909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
